@@ -6,7 +6,7 @@
 ## 2. Python:
 (1) **File:** Python_Project_1 Grocery store customers analysis
 
-(2) **File:** Python_Project_2 Analysis of Python_Project_2 Taxi Data in New York - Finding Patterns Using Visualizations
+(2) **File:** Python_Project_2 Analysis of Taxi Data in New York - Finding Patterns Using Visualizations
 
 (3) **File:** Python_Project_3 Classification of the secondary residential real estate in Kyiv - PandasSQL and Discriminant analysis
    
