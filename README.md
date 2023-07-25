@@ -9,6 +9,8 @@
 (2) **File:** Python_Project_2 Analysis of Taxi Data in New York - Finding Patterns Using Visualizations
 
 (3) **File:** Python_Project_3 Classification of the secondary residential real estate in Kyiv - PandasSQL and Discriminant analysis
+
+(4) **File:** Python_Project_4_Customer_Retention_Rate_Calculation_For_Uklon_Clients [https://colab.research.google.com/github/oleksii-havryliuk/Portfolio_Data_Analyst/blob/main/Python_Project_4_Customer_Retention_Rate_Calculation_For_Uklon_Clients.ipynb]
    
 ## 3. Google BigQuery:
 **File:** BigQuery_practice [https://docs.google.com/document/d/1_pxT8EA_GY3x3TwLFayZwmbqM8_Kb4UZxdPf8RLxPGc/edit?usp=sharing]
